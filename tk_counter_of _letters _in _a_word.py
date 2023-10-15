@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 
+
 def btn_click():
     text_input = text.get()
     counter = len(text_input)
